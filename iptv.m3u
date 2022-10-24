@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,Sochi
 https://limehd.cdnvideo.ru/streaming/sochilive/324/1/tracks-v3a1/mono.m3u8?e=1666664718&md5=z63cR9QxtpmC9xfgXEo1RQ
+#EXTINF:-1, Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
